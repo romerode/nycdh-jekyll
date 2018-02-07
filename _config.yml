@@ -15,7 +15,7 @@ github_username:  romerode
 
 # Build settings
 markdown:         kramdown
-remote_theme:     romerode/moon
+remote_theme:     romerode/Moon
 permalink:        pretty
 exclude:          [Gemfile*, vendor, README.md, docs]
 plugins:          [jekyll-feed]
