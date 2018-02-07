@@ -3,7 +3,6 @@
 # This config file is meant for settings that affect your whole blog, values which you are expected to set up once and rarely edit after that. If you find yourself editing this file very often, consider using Jekyll's data files feature for the data you need to update frequently.
 
 # Site settings
-remote_theme:     romerode/chalk
 
 title:             Romero
 email:            romsiek@gmail.com
@@ -16,7 +15,7 @@ github_username:  romerode
 
 # Build settings
 markdown:         kramdown
-remote_theme:     broccolini/athena
+remote_theme:     romerode/chalk
 permalink:        pretty
 exclude:          [Gemfile*, vendor, README.md, docs]
 plugins:          [jekyll-feed]
