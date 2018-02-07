@@ -10,12 +10,12 @@ description:      Priviet, kak dela?
 url:              ''
 baseurl:          ''
 
-twitter_username: mariinyrop
+twitter_username: romerod
 github_username:  romerode
 
 # Build settings
 markdown:         kramdown
-remote_theme:     romerode/Moon
+remote_theme:     nielsenramon/chalk
 permalink:        pretty
 exclude:          [Gemfile*, vendor, README.md, docs]
 plugins:          [jekyll-feed]
